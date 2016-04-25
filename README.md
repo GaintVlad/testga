@@ -28,7 +28,7 @@ DB_PASSWORD= your_database_password
 
 7. php artisan migrate --seed  - заполните данными
 
-8.Доступ к адинке
+8.Доступ к админке
 
 email: admin@info.ry
 
